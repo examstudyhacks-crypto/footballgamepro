@@ -1,0 +1,5 @@
+# Stable Streamlit Cloud build pins
+# Use Python 3.12 in Streamlit Community Cloud Advanced settings if available.
+streamlit==1.41.1
+pandas==2.2.3
+numpy==2.2.6
